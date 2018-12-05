@@ -2,7 +2,7 @@
 The repo is for MSBD5001 independent project from Gao Han (Student id: 20565848)
 
 ## Programming Language
-Here I just use python to train the model and make prediction.
+Here I just use python 3 to train the model and make prediction.
 
 ## Required Packages
 Here all packages are based on Python. They are:
